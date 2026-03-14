@@ -15,6 +15,7 @@ Add this marketplace to Claude Code:
 | Plugin | Description |
 |--------|-------------|
 | [ios-e2e-skill](https://github.com/alpharigel/ios-e2e-skill) | End-to-end iOS app testing for coding agents |
+| [ios-feedback-skill](https://github.com/alpharigel/ios-feedback-skill) | Add an in-app feedback button to iOS apps with automatic GitHub issue creation |
 
 ### Install a plugin
 
