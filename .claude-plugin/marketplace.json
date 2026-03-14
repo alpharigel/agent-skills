@@ -9,18 +9,18 @@
   },
   "plugins": [
     {
-      "name": "axe-ios-skill",
+      "name": "ios-e2e-skill",
       "source": {
         "source": "github",
-        "repo": "alpharigel/axe-ios-skill"
+        "repo": "alpharigel/ios-e2e-skill"
       },
-      "description": "Test and automate iOS apps in the Simulator using AXe CLI for accessibility-based UI automation",
+      "description": "End-to-end iOS app testing for coding agents — UI automation, simulator management, and accessibility-driven interactions",
       "version": "1.0.0",
       "author": {
         "name": "alpharigel"
       },
       "license": "MIT",
-      "keywords": ["ios", "simulator", "testing", "axe", "accessibility"],
+      "keywords": ["ios", "simulator", "testing", "e2e", "accessibility"],
       "category": "testing"
     }
   ]

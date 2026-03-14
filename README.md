@@ -14,12 +14,12 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
-| [axe-ios-skill](https://github.com/alpharigel/axe-ios-skill) | Test and automate iOS apps in the Simulator using AXe CLI |
+| [ios-e2e-skill](https://github.com/alpharigel/ios-e2e-skill) | End-to-end iOS app testing for coding agents |
 
 ### Install a plugin
 
 ```
-/plugin install axe-ios-skill@alpharigel-tools
+/plugin install ios-e2e-skill@alpharigel-tools
 ```
 
 ## License
