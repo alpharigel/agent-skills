@@ -1,4 +1,4 @@
-# My AI Product Management Workflow
+# My AI-Native Product Management Workflow
 
 My current best workflow for unlocking AI agents to turn ideas into tangible solutions.
 
