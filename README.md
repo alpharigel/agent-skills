@@ -2,7 +2,7 @@
 
 A product manager's toolkit for agentic coding — reusable skills and an evolving workflow for turning ideas into tangible solutions with AI coding agents.
 
-**📋 [Read the full PM-AI Workflow →](WORKFLOW.md)** — my current best process for going from idea to shipped feature, kept up to date as tools evolve.
+**📋 [Read the full AI-Native PM Workflow →](WORKFLOW.md)** — my current best process for going from idea to shipped feature, kept up to date as tools evolve.
 
 If you're coming from my [Substack](https://jaydermody.substack.com), welcome! The workflow doc is the best place to start. The skills below are the reusable building blocks that make it all go faster.
 
