@@ -1,4 +1,4 @@
-# alpharigel Agent Skills
+# Jay's Workflow and Agent Skills
 
 A product manager's toolkit for agentic coding. Reusable skills, a living workflow, and a community of builders figuring this out together.
 
